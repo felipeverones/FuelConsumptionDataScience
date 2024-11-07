@@ -1,0 +1,9 @@
+.DS_Store
+.env
+*.log
+*.pyc
+__pycache__/
+node_modules/
+venv/
+.ipynb_checkpoints/
+*.pkl
